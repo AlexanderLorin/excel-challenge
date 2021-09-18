@@ -9,16 +9,5 @@ First Homework for Data Analytics Bootcamp
 3. What are some other possible tables and/or graphs that we could create?
     - Another table/chart we can create is a table to show how many projects were launched from each coutnry and create a pie chart to show the percentage for each country.
 
-Analysis by Parent Category
-![](/Users/alexanderlorin/code/excel-challenge/Images/Analysis by Parent Category.png)
-
-Analysis by Sub-Category
-![](/Users/alexanderlorin/code/excel-challenge/Images/Analysis by Sub-Category.png)
-
-Analysis by Months
-![](/Users/alexanderlorin/code/excel-challenge/Images/Analysis by Months.png)
-
-Bonus Assignment
-![]( /Users/alexanderlorin/code/excel-challenge/Images/Bonus Assignment.png)
 
 
