@@ -10,7 +10,7 @@ First Homework for Data Analytics Bootcamp
     - Another table/chart we can create is a table to show how many projects were launched from each coutnry and create a pie chart to show the percentage for each country.
 
 Analysis by Parent Category
-![]{/Users/alexanderlorin/code/excel-challenge/Images/Analysis by Parent Category.png)}
+![](/Users/alexanderlorin/code/excel-challenge/Images/Analysis by Parent Category.png)
 
 Analysis by Sub-Category
 ![](/Users/alexanderlorin/code/excel-challenge/Images/Analysis by Sub-Category.png)
