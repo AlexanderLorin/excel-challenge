@@ -21,3 +21,4 @@ Analysis by Months
 Bonus Assignment
 ![]( /Users/alexanderlorin/code/excel-challenge/Images/Bonus Assignment.png)
 
+
